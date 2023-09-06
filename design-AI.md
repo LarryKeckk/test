@@ -4,6 +4,9 @@
 
 # 1. Name a real-world example of an existing AI system that is problematic in that it actually enacts existing problematic social systems/practices
 + A real world example of an artificial intelligence that might be problematic in society is AI that generates Deep Fakes and Fake News for social media. This actually worsens the societal problem of false information and misinformation on the internet. The artificial intelligence that exists can mass produce this misinformation in seconds on any topic. The deep fakes over the years has gotten really problematic as they have gotten more and more realistic. The AI can mimic faces, voices, and even text messages.
+
+<br /><br />
+
 # 2. Describe this system in terms of (your perceived high-level) **goals**, **environment**, and **adaptations** of the system.
 
 <br /><br />
@@ -32,6 +35,8 @@ These goals are problematic to society and can hurt the public.
 + Evolves to bypass detection methods used by most media outlets such as instagram, twitter, or youtube by constantly changing generation techniques.
 + Adapt to current events, trending topics, or popular people to maximize disinformation.
 + Frequently updates and refines algorithms to get better at imitating human speech, and behavior.
+
+<br /><br />
 
 # 3. Describe a potential reimagined system in terms of **goals**, **environment**, and **adaptations**. How does it improve upon the system described in 2?
 
